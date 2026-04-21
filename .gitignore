@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.joblib
+models/
+.env
+.venv
+venv/
+.DS_Store
